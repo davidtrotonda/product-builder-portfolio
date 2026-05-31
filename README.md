@@ -29,7 +29,7 @@ This repository is a central portfolio of projects and case studies. Some projec
 | 2025 | Ecommerce Mobile App | Client mobile app | Mobile ecommerce app for recurring sales and app-based shopping | Case study | [Open](./projects/ecommerce-mobile-app/) |
 | 2026 | Link My App | SaaS / utility | Smart links that route users to App Store, Google Play or fallback URLs | Public source code | [Open](./projects/link-my-app/) |
 | 2026 | SkeilFlow | Cashflow dashboard | Startup cashflow, planning, tax reserve and SaaS dashboard tool | Public source code | [Open](./projects/startup-cashflow-dashboard/) |
-| 2026 | App de Rutina Diaria | Habit tracking PWA | Routine tracker with Firebase auth, reminders, calendar and PWA support | Public source code | [Open](./projects/rutina-diaria/) |
+| 2026 | Daily Routine App | Habit tracking PWA | Routine tracker with Firebase auth, reminders, calendar and PWA support | Public source code | [Open](./projects/rutina-diaria/) |
 | 2026 | SkeilApps | Ecommerce app service | Website and commercial offer for building mobile apps for ecommerce brands | Case study | [Open](./projects/skeilapps/) |
 
 ## Main areas
