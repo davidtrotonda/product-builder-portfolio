@@ -37,6 +37,10 @@ Many ecommerce businesses depend heavily on web traffic, paid ads, email and mar
 
 The source code is not included in this repository. This case study focuses on the public service, positioning and product direction.
 
+## Related repository
+
+[View SkeilApps public showcase](https://github.com/davidtrotonda/skeilapps)
+
 ## What I learned
 
 - A service offer is stronger when it is based on products already built before.
