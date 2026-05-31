@@ -26,7 +26,7 @@ This repository is a central portfolio of projects and case studies. Some projec
 | Ecommerce Mobile App | Client mobile app | Mobile ecommerce app for recurring sales and app-based shopping | Case study | [Open](./projects/ecommerce-mobile-app/) |
 | Link My App | SaaS / utility | Smart links that route users to App Store, Google Play or fallback URLs | Public source code | [Open](./projects/link-my-app/) |
 | SkeilFlow | Cashflow dashboard | Startup cashflow, planning, tax reserve and SaaS dashboard tool | Public source code | [Open](./projects/startup-cashflow-dashboard/) |
-| Rutina Diaria | Habit tracking PWA | Routine tracker with Firebase auth, reminders, calendar and PWA support | Public source code | [Open](./projects/rutina-diaria/) |
+| App de Rutina Diaria | Habit tracking PWA | Routine tracker with Firebase auth, reminders, calendar and PWA support | Public source code | [Open](./projects/rutina-diaria/) |
 | SkeilApps Automation System | AI automation / CRM | Ecommerce lead research, personalized outreach and Odoo workflows | Case study | [Open](./projects/skeilapps-automation-system/) |
 | Ecommerce Audit SaaS | SaaS / lead generation | Automated ecommerce audits as a lead-generation funnel | Concept case study | [Open](./projects/ecommerce-audit-saas/) |
 | AI Growth Agents | AI agents / growth | Organic mention research, ad iteration and UGC funnel automation | Concept case study | [Open](./projects/ai-growth-agents/) |

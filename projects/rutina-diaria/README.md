@@ -1,10 +1,10 @@
-# Rutina Diaria — Habit Tracking PWA
+# App de Rutina Diaria — Habit Tracking PWA
 
 ## Summary
 
-Rutina Diaria is a Firebase-powered routine and habit tracking PWA with authentication, reminders, daily planning and completion tracking.
+App de Rutina Diaria is a Firebase-powered routine and habit tracking PWA with authentication, reminders, daily planning and completion tracking.
 
-![Rutina Diaria dashboard](./assets/01-routine-dashboard.jpeg)
+![App de Rutina Diaria dashboard](./assets/01-routine-dashboard.jpeg)
 
 ## Problem
 
@@ -47,4 +47,3 @@ Routine apps often become too generic. This project focused on a clear daily ent
 - Add better templates for different user profiles.
 - Add analytics for habit completion patterns.
 - Improve offline editing and conflict handling.
-
