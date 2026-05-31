@@ -39,11 +39,10 @@ Startups often track cashflow in spreadsheets, but it is easy to lose visibility
 
 - Financial tools need clarity more than visual complexity.
 - Dashboards should separate real available cash from gross bank balance.
-- AI-assisted development can speed up internal tool creation when the product logic is clear.
+- AI-assisted development can speed up dashboard and SaaS tool creation when the product logic is clear.
 
 ## What I would improve today
 
 - Add imports from bank/CSV data.
 - Add multi-scenario forecasting.
 - Improve onboarding for non-finance users.
-

@@ -1,8 +1,8 @@
 # Product Builder Portfolio
 
-Mobile apps, ecommerce growth, automation systems, AI workflows and product experiments.
+Mobile apps, ecommerce growth, SaaS tools and product experiments.
 
-I'm David, founder of SkeilApps. I build practical products across ecommerce, mobile apps, automation, AI workflows, internal tools and growth systems.
+I'm David, founder of SkeilApps. I build practical products across ecommerce, mobile apps, SaaS tools, dashboards and growth systems.
 
 This repository is a central portfolio of projects and case studies. Some projects include public source code in separate repositories. Others are documented as case studies because the original codebase is private, deprecated, client-owned or no longer available.
 
@@ -13,41 +13,31 @@ This repository is a central portfolio of projects and case studies. Some projec
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=fff)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=fff)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=fff)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=fff)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-111827?style=flat)
 ![Ecommerce](https://img.shields.io/badge/Ecommerce-0F766E?style=flat)
 
-## Featured projects
+## Projects in chronological order
 
-| Project | Type | What I built | Status | Link |
-|---|---|---|---|---|
-| Smusix | Music discovery startup | Native music discovery app, artist platform, media upload and compression flows | Case study + public showcase repo | [Open](./projects/smusix/) |
-| The Secret Home Ecommerce Growth | Ecommerce growth | SEO, marketplace growth, ads and operational scaling | Case study | [Open](./projects/the-secret-home-ecommerce-growth/) |
-| Ecommerce Mobile App | Client mobile app | Mobile ecommerce app for recurring sales and app-based shopping | Case study | [Open](./projects/ecommerce-mobile-app/) |
-| Link My App | SaaS / utility | Smart links that route users to App Store, Google Play or fallback URLs | Public source code | [Open](./projects/link-my-app/) |
-| SkeilFlow | Cashflow dashboard | Startup cashflow, planning, tax reserve and SaaS dashboard tool | Public source code | [Open](./projects/startup-cashflow-dashboard/) |
-| App de Rutina Diaria | Habit tracking PWA | Routine tracker with Firebase auth, reminders, calendar and PWA support | Public source code | [Open](./projects/rutina-diaria/) |
-| SkeilApps Automation System | AI automation / CRM | Ecommerce lead research, personalized outreach and Odoo workflows | Case study | [Open](./projects/skeilapps-automation-system/) |
-| Ecommerce Audit SaaS | SaaS / lead generation | Automated ecommerce audits as a lead-generation funnel | Concept case study | [Open](./projects/ecommerce-audit-saas/) |
-| AI Growth Agents | AI agents / growth | Organic mention research, ad iteration and UGC funnel automation | Concept case study | [Open](./projects/ai-growth-agents/) |
-| Local Delivery App | Local marketplace | Delivery/order app for local businesses in Gandia and Oliva | Case study | [Open](./projects/local-delivery-app/) |
-| Crypto Battle Royale | Web3 game marketplace | NFT game and digital marketplace product experiment | Case study | [Open](./projects/crypto-battle-royale/) |
-
-## Early games and experiments
-
-| Project | Type | What it shows | Link |
-|---|---|---|---|
-| Save Troton | Unity mobile game | Early app store growth, organic promotion and paid CPI testing | [Open](./projects/save-troton/) |
-| Troton Ball | Unity mobile game | Product quality vs distribution, store positioning and ad testing | [Open](./projects/troton-ball/) |
-| Niche Blogs and Early Games | WordPress / SEO / games | AdSense, SEO content and early product distribution experiments | [Open](./projects/niche-blogs-and-games/) |
+| Period | Project | Type | What I built | Status | Link |
+|---|---|---|---|---|---|
+| 2020 | Niche Blogs and Early Games | WordPress / SEO / games | AdSense blogs, SEO content and early product distribution experiments | Case study | [Open](./projects/niche-blogs-and-games/) |
+| 2020 | Save Troton | Unity mobile game | Mobile game used to test app store growth, organic promotion and paid CPI | Case study | [Open](./projects/save-troton/) |
+| 2020 | Troton Ball | Unity mobile game | Mobile game used to learn product quality, positioning and paid acquisition | Case study | [Open](./projects/troton-ball/) |
+| 2020-2025 | Smusix | Music discovery startup | Native music discovery app, artist platform, media upload and compression flows | Case study + public showcase repo | [Open](./projects/smusix/) |
+| 2021 | Local Delivery App | Local marketplace | Delivery/order app for local businesses in Gandia and Oliva | Case study | [Open](./projects/local-delivery-app/) |
+| 2021-2022 | Crypto Battle Royale | Web3 game marketplace | NFT game and digital marketplace product experiment | Case study | [Open](./projects/crypto-battle-royale/) |
+| 2024-2025 | The Secret Home Ecommerce Growth | Ecommerce growth | SEO, marketplace growth, ads and operational scaling | Case study | [Open](./projects/the-secret-home-ecommerce-growth/) |
+| 2025 | Ecommerce Mobile App | Client mobile app | Mobile ecommerce app for recurring sales and app-based shopping | Case study | [Open](./projects/ecommerce-mobile-app/) |
+| 2026 | Link My App | SaaS / utility | Smart links that route users to App Store, Google Play or fallback URLs | Public source code | [Open](./projects/link-my-app/) |
+| 2026 | SkeilFlow | Cashflow dashboard | Startup cashflow, planning, tax reserve and SaaS dashboard tool | Public source code | [Open](./projects/startup-cashflow-dashboard/) |
+| 2026 | App de Rutina Diaria | Habit tracking PWA | Routine tracker with Firebase auth, reminders, calendar and PWA support | Public source code | [Open](./projects/rutina-diaria/) |
+| 2026 | SkeilApps | Ecommerce app service | Website and commercial offer for building mobile apps for ecommerce brands | Case study | [Open](./projects/skeilapps/) |
 
 ## Main areas
 
 - Mobile app development
 - Ecommerce growth
-- AI agents and automation
 - WordPress and WooCommerce systems
-- Firebase and internal tools
+- Firebase and SaaS tools
 - Product strategy and go-to-market experiments
 - Ads, SEO and acquisition systems
 
