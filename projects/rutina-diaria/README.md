@@ -34,7 +34,7 @@ Routine apps often become too generic. This project focused on a clear daily ent
 
 ## Related repository
 
-[View source code](https://github.com/davidtrotonda/rutina-diaria)
+[View source code](https://github.com/davidtrotonda/app-de-rutina-diaria)
 
 ## What I learned
 
