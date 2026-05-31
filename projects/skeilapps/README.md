@@ -22,6 +22,10 @@ Many ecommerce businesses depend heavily on web traffic, paid ads, email and mar
 - Visual examples of ecommerce app experiences.
 - Commercial messaging around retention and recurring sales.
 - A productized service direction based on previous ecommerce and mobile app experience.
+- An ROI calculator to estimate the potential impact of launching an ecommerce app.
+- A personalized report flow for qualified ecommerce leads.
+
+![SkeilApps platform compatibility](./assets/02-platform-compatibility.png)
 
 ## Stack / skills
 
@@ -32,6 +36,10 @@ Many ecommerce businesses depend heavily on web traffic, paid ads, email and mar
 - Conversion-focused copy.
 - App Store and Google Play experience.
 - Ecommerce retention.
+- WordPress integration.
+- Interactive calculators.
+- Chart.js data visualization.
+- Lead capture and report automation.
 
 ## Source code
 
@@ -40,6 +48,8 @@ The source code is not included in this repository. This case study focuses on t
 ## Related repository
 
 [View SkeilApps public showcase](https://github.com/davidtrotonda/skeilapps)
+
+The public showcase also includes a safe technical breakdown of the ROI calculator without exposing private production code.
 
 ## What I learned
 
