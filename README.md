@@ -25,8 +25,7 @@ This repository is a central portfolio of projects and case studies. Some projec
 | 2020-2025 | Smusix | Music discovery startup | Native music discovery app, artist platform, media upload and compression flows | Case study + public showcase repo | [Open](./projects/smusix/) |
 | 2021 | Local Delivery App | Local marketplace | Delivery/order app for local businesses in Gandia and Oliva | Case study | [Open](./projects/local-delivery-app/) |
 | 2021-2022 | Crypto Battle Royale | Web3 game marketplace | NFT game and digital marketplace product experiment | Case study | [Open](./projects/crypto-battle-royale/) |
-| 2024-2025 | The Secret Home Ecommerce Growth | Ecommerce growth | SEO, marketplace growth, ads and operational scaling | Case study | [Open](./projects/the-secret-home-ecommerce-growth/) |
-| 2025 | Ecommerce Mobile App | Client mobile app | Mobile ecommerce app for recurring sales and app-based shopping | Case study | [Open](./projects/ecommerce-mobile-app/) |
+| 2024-2025 | The Secret Home Ecommerce Growth | Ecommerce growth / mobile app | SEO, marketplace growth, ads, operations and a mobile ecommerce app | Case study | [Open](./projects/the-secret-home-ecommerce-growth/) |
 | 2026 | Link My App | SaaS / utility | Smart links that route users to App Store, Google Play or fallback URLs | Public source code | [Open](./projects/link-my-app/) |
 | 2026 | SkeilFlow | Cashflow dashboard | Startup cashflow, planning, tax reserve and SaaS dashboard tool | Public source code | [Open](./projects/startup-cashflow-dashboard/) |
 | 2026 | Daily Routine App | Habit tracking PWA | Routine tracker with Firebase auth, reminders, calendar and PWA support | Public source code | [Open](./projects/rutina-diaria/) |
