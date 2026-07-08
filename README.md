@@ -15,6 +15,14 @@ This repository is a central portfolio of projects and case studies. Some projec
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=fff)
 ![Ecommerce](https://img.shields.io/badge/Ecommerce-0F766E?style=flat)
 
+## Active projects
+
+| Project | What it is | Website | GitHub / case study |
+|---|---|---|---|
+| Link My App | Smart links and QR codes for App Store, Google Play and web fallback traffic | [link-my.app](https://link-my.app/) | [Source code](https://github.com/davidtrotonda/link-my-app) |
+| TienRank | Ecommerce rankings, store profiles, news and community signals for Spanish online stores | [tienrank.com](https://tienrank.com/) | [Case study](./projects/tienrank/) |
+| TuBack.link | Backlink opportunity finder for ecommerce stores by category | [tuback.link](https://tuback.link/) | [Case study](./projects/tuback-link/) |
+
 ## Projects in chronological order
 
 | Period | Project | Type | What I built | Status | Link |
@@ -27,6 +35,8 @@ This repository is a central portfolio of projects and case studies. Some projec
 | 2021-2022 | Crypto Battle Royale | Web3 game marketplace | NFT game and digital marketplace product experiment | Case study | [Open](./projects/crypto-battle-royale/) |
 | 2024-2025 | The Secret Home Ecommerce Growth | Ecommerce growth / mobile app | SEO, marketplace growth, ads, operations and a mobile ecommerce app | Case study | [Open](./projects/the-secret-home-ecommerce-growth/) |
 | 2026 | Link My App | SaaS / utility | Smart links that route users to App Store, Google Play or fallback URLs | Public source code | [Open](./projects/link-my-app/) |
+| 2026 | TienRank | Ecommerce rankings / community | Rankings, store profiles, ecommerce news, forum and AI-readable public surfaces | Live project | [Open](./projects/tienrank/) |
+| 2026 | TuBack.link | SEO / backlinks tool | Backlink opportunities for ecommerce stores, organized by category and actionability | Live project | [Open](./projects/tuback-link/) |
 | 2026 | SkeilFlow | Cashflow dashboard | Startup cashflow, planning, tax reserve and SaaS dashboard tool | Public source code | [Open](./projects/startup-cashflow-dashboard/) |
 | 2026 | Daily Routine App | Habit tracking PWA | Routine tracker with Firebase auth, reminders, calendar and PWA support | Public source code | [Open](./projects/rutina-diaria/) |
 | 2026 | SkeilApps | Ecommerce app service | Website, ROI calculator and commercial offer for building mobile apps for ecommerce brands | Public showcase repo | [Open](./projects/skeilapps/) |

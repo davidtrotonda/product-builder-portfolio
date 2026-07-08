@@ -32,6 +32,10 @@ App makers often need one clean link for campaigns, QR codes, packaging, bios an
 
 [View source code](https://github.com/davidtrotonda/link-my-app)
 
+## Live project
+
+[Open Link My App](https://link-my.app/)
+
 ## What I learned
 
 - Small utilities are useful when they solve a very specific distribution problem.
@@ -42,4 +46,3 @@ App makers often need one clean link for campaigns, QR codes, packaging, bios an
 - Add analytics per platform.
 - Add QR export.
 - Add custom domains.
-
